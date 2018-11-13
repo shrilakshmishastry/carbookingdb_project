@@ -1,0 +1,38 @@
+#a{
+  font-family: 'Niramit', sans-serif;
+}
+#b{
+  font-family:'Niramit', sans-serif;
+}
+#login{
+    font-family:'Niramit', sans-serif;
+
+}
+#navbar_brand{
+  font-family: 'Merriweather', serif;
+
+}
+#carousel-img{
+
+  background-size: cover;
+
+}
+#home{
+  font-family: 'Inconsolata', monospace;
+}
+#a_navbar:hover{
+  text-decoration:underline;
+}
+#home_jumbotron{
+  font-family: 'Orbitron', sans-serif;
+}
+#homebg{
+  background-image: url(./../images/1053773952-612x612.jpg);
+  background-repeat: no-repeat;
+}
+#background_home{
+  background-image: url(./../images/img5.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 650px;
+}
